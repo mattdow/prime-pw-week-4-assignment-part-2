@@ -5,9 +5,18 @@ header {
 .info {
   background-color: #F1ECC3;
   color: #57837B;
+  text-align:center;
 }
 
 h3 {
   background-color: #F5E8C7;
   color: #6F4C5B;
+  text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
