@@ -1,3 +1,7 @@
+* {
+  font-family: Arial, Verdana, sans-serif;
+}
+
 header {
   background-color: #C9D8B6;
 }
@@ -9,7 +13,7 @@ header {
 }
 
 h3 {
-  background-color: #F5E8C7;
+  background-color: #F1ECC3;
   color: #6F4C5B;
   text-align: center;
 }
